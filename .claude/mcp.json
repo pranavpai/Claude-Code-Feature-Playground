@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "figma-local": {
+      "url": "http://127.0.0.1:3845/mcp",
+      "description": "Local Figma MCP server running through Figma Desktop app. Requires Figma Desktop installed with Dev Mode enabled. No authentication needed for local connections.",
+      "enabled": true,
+      "transport": {
+        "type": "sse"
+      }
+    },
+    "figma-remote": {
+      "url": "https://mcp.figma.com/mcp",
+      "description": "Remote Figma MCP server (cloud-based). Requires FIGMA_ACCESS_TOKEN environment variable. Available on all Figma plans. To enable: 1) Generate token at figma.com/settings, 2) export FIGMA_ACCESS_TOKEN='your_token', 3) set enabled to true",
+      "enabled": false,
+      "transport": {
+        "type": "sse"
+      },
+      "headers": {
+        "Authorization": "Bearer ${FIGMA_ACCESS_TOKEN}"
+      }
+    }
+  }
+}
