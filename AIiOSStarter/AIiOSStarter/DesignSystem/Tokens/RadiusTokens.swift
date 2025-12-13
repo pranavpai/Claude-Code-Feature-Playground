@@ -1,6 +1,6 @@
 //
 //  RadiusTokens.swift
-//  FigmaToIOSStarter
+//  AIiOSStarter
 //
 //  Corner radius scale for consistent rounded corners
 //  Provides semantic sizing from small to fully rounded

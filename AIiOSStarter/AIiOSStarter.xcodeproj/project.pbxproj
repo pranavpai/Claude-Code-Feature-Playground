@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4AABA1222EEC4958002F26FA /* FigmaToIOSStarter-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FigmaToIOSStarter-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4AABA1222EEC4958002F26FA /* AIiOSStarter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AIiOSStarter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4AABA1242EEC4958002F26FA /* FigmaToIOSStarter-App */ = {
+		4AABA1242EEC4958002F26FA /* AIiOSStarter */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "FigmaToIOSStarter-App";
+			path = "AIiOSStarter";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		4AABA1192EEC4958002F26FA = {
 			isa = PBXGroup;
 			children = (
-				4AABA1242EEC4958002F26FA /* FigmaToIOSStarter-App */,
+				4AABA1242EEC4958002F26FA /* AIiOSStarter */,
 				4AABA1232EEC4958002F26FA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		4AABA1232EEC4958002F26FA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4AABA1222EEC4958002F26FA /* FigmaToIOSStarter-App.app */,
+				4AABA1222EEC4958002F26FA /* AIiOSStarter.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4AABA1212EEC4958002F26FA /* FigmaToIOSStarter-App */ = {
+		4AABA1212EEC4958002F26FA /* AIiOSStarter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4AABA12D2EEC4959002F26FA /* Build configuration list for PBXNativeTarget "FigmaToIOSStarter-App" */;
+			buildConfigurationList = 4AABA12D2EEC4959002F26FA /* Build configuration list for PBXNativeTarget "AIiOSStarter" */;
 			buildPhases = (
 				4AABA11E2EEC4958002F26FA /* Sources */,
 				4AABA11F2EEC4958002F26FA /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4AABA1242EEC4958002F26FA /* FigmaToIOSStarter-App */,
+				4AABA1242EEC4958002F26FA /* AIiOSStarter */,
 			);
-			name = "FigmaToIOSStarter-App";
+			name = "AIiOSStarter";
 			packageProductDependencies = (
 			);
-			productName = "FigmaToIOSStarter-App";
-			productReference = 4AABA1222EEC4958002F26FA /* FigmaToIOSStarter-App.app */;
+			productName = "AIiOSStarter";
+			productReference = 4AABA1222EEC4958002F26FA /* AIiOSStarter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4AABA11D2EEC4958002F26FA /* Build configuration list for PBXProject "FigmaToIOSStarter-App" */;
+			buildConfigurationList = 4AABA11D2EEC4958002F26FA /* Build configuration list for PBXProject "AIiOSStarter" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4AABA1212EEC4958002F26FA /* FigmaToIOSStarter-App */,
+				4AABA1212EEC4958002F26FA /* AIiOSStarter */,
 			);
 		};
 /* End PBXProject section */
@@ -263,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.PranavPai.FigmaToIOSStarter-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.PranavPai.AIiOSStarter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.PranavPai.FigmaToIOSStarter-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.PranavPai.AIiOSStarter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4AABA11D2EEC4958002F26FA /* Build configuration list for PBXProject "FigmaToIOSStarter-App" */ = {
+		4AABA11D2EEC4958002F26FA /* Build configuration list for PBXProject "AIiOSStarter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4AABA12B2EEC4959002F26FA /* Debug */,
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4AABA12D2EEC4959002F26FA /* Build configuration list for PBXNativeTarget "FigmaToIOSStarter-App" */ = {
+		4AABA12D2EEC4959002F26FA /* Build configuration list for PBXNativeTarget "AIiOSStarter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4AABA12E2EEC4959002F26FA /* Debug */,

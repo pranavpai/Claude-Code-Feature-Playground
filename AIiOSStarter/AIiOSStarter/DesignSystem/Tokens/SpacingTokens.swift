@@ -1,6 +1,6 @@
 //
 //  SpacingTokens.swift
-//  FigmaToIOSStarter
+//  AIiOSStarter
 //
 //  Spacing scale based on 8pt grid system
 //  Provides consistent spacing throughout the app

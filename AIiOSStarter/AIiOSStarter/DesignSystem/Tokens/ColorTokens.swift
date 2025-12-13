@@ -1,6 +1,6 @@
 //
 //  ColorTokens.swift
-//  FigmaToIOSStarter
+//  AIiOSStarter
 //
 //  Semantic color system with Asset Catalog references
 //  Supports automatic dark mode through Asset Catalog color sets

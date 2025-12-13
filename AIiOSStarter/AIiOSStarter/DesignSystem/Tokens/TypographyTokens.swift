@@ -1,6 +1,6 @@
 //
 //  TypographyTokens.swift
-//  FigmaToIOSStarter
+//  AIiOSStarter
 //
 //  Typography scale following Material Design 3 principles
 //  Supports Dynamic Type for accessibility
